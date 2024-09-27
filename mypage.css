@@ -1,0 +1,279 @@
+.mypage-cover {
+    background-color: rgba(201, 242, 255, 0.5);
+    left: 0px;
+    top: 72px;
+    position: absolute;
+    width: 100%;
+    height: 1000px;
+    padding-bottom: 1000px;
+    display: flex;
+    justify-content: center;
+}
+
+.mypage-top-cover {
+    height: 276.797px;
+}
+
+.mypage-blue-background {
+    height: 120px;
+    width: 1440px;
+    left: 0px;
+    top: 0px;
+    background-color: rgb(55, 135, 255);
+}
+
+.mypage-element-cover {
+    position: absolute;
+    height: 256.797px;
+    width: 1363.81px;
+    left: 38.0952px;
+    top: 20px;
+}
+
+.mypage-right-cover {
+    height: 248px;
+    width: 200px;
+    position: absolute;
+}
+
+.mypage-right-area {
+
+}
+
+.mypage-img-cover {
+    height: 200px;
+    width: 200px;
+}
+
+.mypage-img-area {
+    height: 190px;
+    width: 190px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(55, 135, 255);
+    border-radius: 10px;
+    background-color: white;
+}
+
+.mypage-img {
+    border-radius: 5px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.mypage-left-cover {
+    height: 256.797px;
+    left: 240px;
+    width: 1123.8px;
+    position: absolute;
+}
+
+.mypage-left-area {
+    height: 234.797px;
+    width: 1123.8px;
+    top: 22px;
+    position: absolute;
+}
+
+.mypage-name-cover {
+    position: relative;
+    height: 56px;
+}
+
+.mypage-name-area {
+    height: 56px;
+    width: 1123.8px;
+}
+
+.mypage-name {
+    height: 56px;
+    width: 1123.8px;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    line-height: 1.4;
+}
+
+.mypage-under-cover {
+    margin-top: 40px;
+    height: 959px;
+}
+
+.mypage-button-cover {
+    height: 116px;
+    left: 40px;
+    width: 190.526px;
+    position: absolute;
+}
+
+.portfolio-button-cover {
+    height: 48px;
+    width: 190.523px;
+}
+
+.portfolio-button {
+    height: 48px;
+    background-color: rgb(55, 135, 255);
+    border-radius: 45px;
+    cursor: pointer;
+    width: 190.523px;
+}
+
+.portfolio-button-font-cover {
+    position: relative;
+    top: 12px;
+    height: 24px;
+}
+
+.portfolio-button-font-area {
+    height: 24px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    line-height: 1.4;
+    width: 190.523px;
+}
+
+.editprofile-button-cover {
+    margin-top: 20px;
+    height: 48px;
+}
+
+.editprofile-button-area {
+    width: 190.523px;
+}
+
+.editprofile-button {
+    height: 48px;
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(55, 135, 255);
+    border-radius: 45px;
+    cursor: pointer;
+    width: 190.523px;
+}
+
+.editprofile-button-font-cover {
+    margin-top: 12px;
+    height: 24px;
+}
+
+.editprofile-button-font-area {
+    height: 100%;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(55, 135, 255);
+    text-align: center;
+    line-height: 1.4;
+    width: 100%;
+}
+
+.right-element-cover {
+    height: 959px;
+    left: 271.526px;
+    width: 1257.47px;
+    position: absolute;
+}
+
+.right-element-area {
+    width: 1257.47px;
+    position: absolute;
+    height: 919px;
+    top: 40px;
+}
+
+.mypage-choice-cover {
+    height: 32px;
+}
+
+.mypage-choice-area {
+    width: 1129.47px;
+}
+
+.mypage-font-cover {
+    height: 30px;
+}
+
+.mypage-font-area {
+    height: 30px;
+    width: 312px;
+    display: flex;
+}
+
+.force-choice-font-cover {
+    height: 30px;
+    width: 74px;
+    cursor: pointer;
+}
+
+.force-choice-font-area {
+    height: 23px;
+    width: 74px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(80, 80, 80);
+    text-align: center;
+    line-height: 1.4;
+}
+
+.portfolio-choice-font-cover {
+    height: 30px;
+    left: 94px;
+    width: 124px;
+    position: absolute;
+    cursor: pointer;
+}
+
+.portfolio-choice-font-area {
+    position: absolute;
+    height: 23px;
+    width: 124px;
+    left: 0px;
+    top: 0px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(80, 80, 80);
+    text-align: center;
+    line-height: 1.4;
+}
+
+.coment-choice-font-cover {
+    height: 30px;
+    left: 238px;
+    width: 74px;
+    cursor: pointer;
+    position: absolute;
+}
+
+.coment-choice-font-area {
+    height: 23px;
+    width: 74px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(80, 80, 80);
+    text-align: center;
+    line-height: 1.4;
+}
+
+.glay-line-cover {
+    height: 2px;
+}
+
+.glay-line-area {
+    height: 2px;
+    width: 1129.47px;
+}
+
+.glay-line {
+    height: 2px;
+    width: 1129.47px;
+    background-color: rgb(222, 222, 222);
+}

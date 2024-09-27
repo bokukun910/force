@@ -1,0 +1,19 @@
+.footer-icon-area {
+    display: flex;
+}
+
+.footer-menu-area {
+    display: flex;
+}
+
+.footer-left-area {
+    
+}
+
+.footer-menu-font {
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(80, 80, 80);
+    margin: 0 3px;
+}

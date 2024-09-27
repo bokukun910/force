@@ -1,0 +1,243 @@
+.search-mentor-area-cover {
+    background-color: rgba(201, 242, 255, 0.5);
+    left: 0px;
+    top: 72px;
+    position: absolute;
+    width: 100%;
+    height: 1000px;
+    padding-bottom: 1000px;
+}
+
+.search-mentor-area {
+    margin-top: 40px;
+    left: 34px;
+    position: absolute;
+    right: 34px;
+    display: flex;
+}
+
+.search-mentor-left-area {
+    position: absolute;
+    height: 444px;
+    width: 391.979px;
+    box-shadow: rgb(170 170 170) 2px 2px 4px 0px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.search-mentor-left-top-font-cover {
+    position: absolute;
+    height: 108px;
+    left: 20px;
+    width: 351.977px;
+}
+
+.search-mentor-left-top-font-area {
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(80, 80, 80);
+    line-height: 1.4;
+    border-radius: 0px;
+}
+
+.search-mentor-left-top-element {
+    position: absolute;
+    margin-top: 20px;
+    height: 108px;
+    width: 351.977px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+}
+
+.search-mentor-left-textbox-cover {
+    position: absolute;
+    margin-top: 50px;
+}
+
+.search-mentor-left-textbox-area {
+    position: absolute;
+    height: 40px;
+    left: 20px;
+    width: 351.977px;
+}
+
+.search-mentor-textbox {
+    position: absolute;
+    box-sizing: border-box;
+    height: 40px;
+    width: 351.977px;
+    left: 0px;
+    top: 0px;
+    border: 1px solid rgb(54, 134, 255);
+    background-color: rgba(201, 242, 255, 0.5);
+    border-radius: 30px;
+    font-family: Arial;
+    font-size: 16px;
+    color: rgb(107, 107, 107);
+    padding: 0px 10px;
+}
+
+.search-mentor-tag-cover {
+    margin-top: 150px;
+    position: relative;
+    height: 222px;
+}
+
+.search-mentor-tag-area {
+    left: 20px;
+    width: 351.977;
+    position: absolute;
+}
+
+.terms-clear-button-cover {
+    height: 26px;
+}
+
+.terms-clear-button-area {
+    height: 26px;
+    left: 20px;
+    width: 351.977px;
+    position: relative;
+}
+
+.terms-clear-button {
+    height: 26px;
+    width: 351.977px;
+    cursor: pointer;
+    background: none rgb(255, 255, 255);
+    border: 1px solid rgb(55, 135, 255);
+    text-align: center;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(55, 135, 255);
+    letter-spacing: 2px;
+    line-height: 1;
+    border-radius: 5px;
+}
+
+/* .terms-clear-button-area :hover {
+    box-shadow: rgb(170, 170, 170) 2px 2px 4px 0px;
+} */
+
+.search-mentor-right-cover {
+    position: absolute;
+    height: 1840px;
+    left: 432.979px;
+}
+
+.search-mentor-font-cover {
+    font-family: Arial;
+    font-size: 32px;
+    font-weight: bold;
+    color: rgb(80, 80, 80);
+    line-height: 1.4;
+    width: 933.021px
+}
+
+.search-mentor-right-element-cover {
+    height: 32px;
+}
+
+.search-mentor-right-element-cover {
+    margin-top: 30px;
+}
+
+.search-mentor-right-top-lien-cover {
+    height: 2px;
+}
+
+.serch-mentor-right-top-font-area {
+    height: 23px;
+    padding-bottom: 0px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(55, 135, 255);
+    text-align: center;
+    line-height: 1.4;
+    border-radius: 0px;
+    width: 74px;
+    left: 0px;
+}    
+
+.search-mentor-right-top-line-area {
+    height: 2px;
+    left: 0px;
+    width: 933.016px;
+    position: absolute;
+}
+
+.search-mentor-right-top-line {
+    height: 2px;
+    top: 0px;
+    background-color: rgb(222, 222, 222);
+    border-radius: 0px;
+    width: 933.016px;
+    left: 0px;
+}
+
+.view-user {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+/* ユーザー要素 */
+.user-cover {
+    height: 360px;
+    background-color: white;
+    margin: 10 6px;
+    border-radius: 10px;
+    width: 300px;
+}
+
+.user-area {
+    height: 360px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: rgb(170 170 170) 2px 2px 4px 0px;
+    cursor: pointer;
+    width: 300px;
+}
+
+.mentor-name-cover {
+    margin-top: 20px;
+    height: 27px;
+}
+
+.mentor-name-area {
+    position: relative;
+    left: 20px;
+    width: 260px;
+}
+
+.mentor-name {
+    height: 27px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(80, 80, 80);
+    line-height: 1.4;
+    width: 260px;
+}
+
+.user-default-img-area {
+    height: 240;
+    width: 300;
+    
+}
+
+.user-default-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.footer {
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    background-color: rgb(255, 255, 255);
+}

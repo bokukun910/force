@@ -1,0 +1,194 @@
+.editprofile-cover {
+    background-color: rgba(201, 242, 255, 0.5);
+    left: 0px;
+    top: 72px;
+    position: absolute;
+    width: 100%;
+    height: 1000px;
+    padding-bottom: 1000px;
+    display: flex;
+    justify-content: center;
+}
+
+.editprofile-area {
+    width: 100%;
+}
+
+.editprofile-title-cover {
+    margin-top: 48px;
+    height: 55px;
+    position: absolute;
+    width: 100%;
+}
+
+.editprofile-title-area {
+    width: 352px;
+    position: absolute;
+    height: 55px;
+    font-family: Arial;
+    font-size: 36px;
+    font-weight: bold;
+    color: rgb(80, 80, 80);
+    text-align: center;
+    line-height: 1.4;
+    left: 544;
+}
+
+.img-edit-cover {
+    margin-top: 30px;
+    height: 160px;
+}
+
+.profile-edit-input-cover {
+    margin-top: 62px;
+    height: 98px;
+    width: 100%;
+}
+
+.profile-edit-input-area {
+    height: 98px;
+    left: 456px;
+    width: 528px;
+    position: absolute;
+}
+
+.name-edit-cover {
+    height: 98px;
+    left: 456px;
+    width: 528px;
+}
+
+.name-edit-font-cover {
+    height: 30px;
+}
+
+.name-edit-font-area {
+    height: 30px;
+    width: 202px;
+}
+
+.name-ddit-font {
+    height: 30px;
+    width: 202px;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(80, 80, 80);
+    line-height: 1.4;
+}
+
+.name-edit-input-cover {
+    margin-top: 20px;
+    height: 48px;
+}
+
+.name-edit-input-area {
+    height: 48px;
+    width: 528px;
+}
+
+.name-edit-input {
+    height: 48px;
+    width: 528px;
+    border: 1px solid rgba(171, 171, 171, 0.41);
+    background-color: rgb(252, 252, 252);
+    border-radius: 5px;
+    font-family: Barlow;
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(107, 107, 107);
+    padding: 0px 10px;
+}
+
+.self-introduction-edit-area {
+    position: relative;
+    height: 98px;
+    width: 528px;
+}
+
+.name-edit-font-cover {
+    height: 30px;
+    width: 202px;
+    position: relative;
+}
+
+.name-edit-font-area {
+    height: 30px;
+    width: 202px;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(80, 80, 80);
+    line-height: 1.4;
+}
+
+.self-introduction-edit-cover {
+    margin-top: 40px;
+    height: 234px;
+}
+
+.self-introduction-edit-font-cover {
+    height: 30px;
+    width: 202px;
+}
+
+.self-introduction-edit-area {
+    height: 30px;
+    width: 202px;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(80, 80, 80);
+    line-height: 1.4;
+}
+
+.self-introduction-edit-input-cover {
+    margin-top: 20px;
+    height: 160px;
+}
+
+.self-introduction-edit-input-area{
+    height: 160px;
+    width: 528px;
+}
+
+.self-introduction-edit-input {
+    height: 160px;
+    width: 528px;
+    border: 1px solid rgb(189, 189, 189);
+    background-color: rgb(255, 255, 255);
+    border-radius: 3px;
+    font-family: Arial;
+    font-size: 16px;
+    color: rgb(80, 80, 80);
+    line-height: 1;
+    padding: 4px;
+    resize: none;
+}
+
+.storage-button-cover {
+    margin-top: 40px;
+    height: 48px;
+}
+
+.storage-button-area {
+    height: 48px;
+    width: 532px;
+    position: absolute;
+}
+
+.storage-button {
+    height: 48px;
+    cursor: pointer;
+    background: none rgb(55, 135, 255);
+    border: none;
+    text-align: center;
+    font-family: Barlow;
+    font-size: 14px;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+    line-height: 1;
+    width: 532px;
+    border-radius: 5px;
+}

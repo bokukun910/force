@@ -1,0 +1,34 @@
+.view-contact-cover {
+    background-color: rgba(201, 242, 255, 0.5);
+    left: 0px;
+    top: 72px;
+    position: absolute;
+    width: 100%;
+    height: 1000px;
+    padding-bottom: 1000px;
+    display: flex;
+    justify-content: center;
+}
+
+.view-contact-area {
+    width: 1233px;
+    margin-top: 45px;
+}
+
+.view-contact-top-font-cover {
+    height: 50px;
+}
+
+.view-contact-top-font-area {
+    width: 489.6px;
+}
+
+.view-contact-top-font {
+    height: 50px;
+    width: 489.6px;
+    font-family: Arial;
+    font-size: 32px;
+    font-weight: bold;
+    color: rgb(80, 80, 80);
+    line-height: 1.4;
+}

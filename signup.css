@@ -1,0 +1,107 @@
+.signup-area-cover {
+    background-color: rgba(201, 242, 255, 0.5);
+    width: 100%;
+    position: absolute;
+    top: 72px;
+    left: 0px;
+}
+
+.signup-area {
+    height: 1000px;
+}
+
+.signup-font-cover {
+    padding-top: 40px;
+    height: 51px;
+}
+
+.signup-font-area {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.signup-font {
+    font-family: Arial;
+    font-size: 36px;
+}
+
+.input-area-cover {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.input-area {
+    width: 38%;
+}
+
+.userdata-input-area {
+    margin-top: 40px;
+    height: 78px;
+}
+/* 新規登録のテキストボックス　後で修正したい */
+.user-input {
+    height: 38px;
+    width: 100%;
+    border-radius: 5px;
+}
+
+/* .user-input :hover {
+    border: 1px solid blue;
+    border-radius: 5px;
+} */
+
+.passward-supplement-font {
+    font-size: 12px;
+}
+
+.school_year-choice-area {
+    width: 100%;
+    height: 38px;
+}
+
+.school_year-choice {
+    height: 100%;
+    width: 100%;
+}
+
+.tag-cover {
+    margin-top: 40px;
+    height: 186px;
+}
+
+.search-input-area {
+    height: 38px;
+    width: 100%;
+}
+
+.signup-button-cover {
+    width: 100%;
+    height: 48px;
+}
+
+.signup-button-area {
+    width: 100%;
+    height: 100%;
+}
+
+.signup-button {
+    background-color: rgb(55, 135, 255);
+    width: 100%;
+    height: 100%;
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 5px;
+    border: none;
+}
+
+.signup-button :hover {
+    box-shadow: rgb(170 170 170) 2px 2px 4px 0px;
+}
+
+.signup-button-cover {
+    margin-top: 40px;
+}

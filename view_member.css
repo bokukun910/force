@@ -1,0 +1,120 @@
+.view-member-cover {
+    top: 72px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+    height: 1000px;
+    background-color: rgba(201, 242, 255, 0.5);
+}
+
+.view-member-area {
+    position: absolute;
+    height: 122px;
+    left: 96px;
+    width: 1233px;
+    margin-top: 45px;
+}
+
+.view-member-top-font-cover {
+    height: 50px;
+}
+
+.view-member-top-font-area {
+    position: absolute;
+    height: 50px;
+    width: 489.6px;
+    left: 0px;
+    top: 0px;
+    font-family: Arial;
+    font-size: 32px;
+    font-weight: bold;
+    color: rgb(80, 80, 80);
+    line-height: 1.4;
+    border-radius: 0px;
+}
+
+.view-member-choice-cover {
+    margin-top: 20px;
+    height: 52px;
+}
+
+.view-member-choice-font-area {
+    display: flex;
+}
+
+.view-member-choice-font {
+    padding: 0 9px;
+    height: 30px;
+    width: 74px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(80, 80, 80);
+    text-align: center;
+    line-height: 1.4;
+    border-radius: 0px;
+    cursor: pointer;
+}
+
+
+
+.view-member-choice-line-area {
+    left: 0px;
+    height: 2px;
+    width: 1248px;
+}
+
+.view-member-choice-line {
+    background-color: rgb(222, 222, 222);
+    width: 100%;
+    height: 2px;
+}
+/* メンバーエレメント */
+.member-display {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.member-cover {
+    background-color: rgb(255, 255, 255);
+    margin: 20 20px;
+    border-radius: 10px;
+    width: 300;
+    height: 315px;
+    box-shadow: rgb(170 170 170) 2px 2px 4px 0px;
+    cursor: pointer;
+}
+
+.member-area {
+    margin:5 5px
+}
+
+.member-name-cover {
+    margin-top: 20px;
+    height: 27px;
+    width: 260px;
+}
+
+.member-name {
+    height: 27px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(80, 80, 80);
+    line-height: 1.4;
+    width: 260px;
+    left: 20px;
+    position: relative;
+}
+
+.member-default-img-area {
+    height: 240;
+    width: 300;
+    
+}
+
+.member-default-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}

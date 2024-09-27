@@ -1,0 +1,31 @@
+.header {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+    height: 72px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgb(170 170 170) 2px 2px 4px 0px;
+    z-index: 1;
+}
+
+.header-area {
+    text-align: center;
+    justify-content: center;
+}
+
+.icon-area {
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-cover {
+    margin-top: 14px;
+    height: 44px;
+}
+
+.force-icon {
+    height: 100%;
+}

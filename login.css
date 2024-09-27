@@ -1,0 +1,133 @@
+.login-cover {
+    background-color: rgba(201, 242, 255, 0.5);
+    top: 72px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+}
+
+.login-font-cover {
+    margin-top: 40px;
+    height: 51px;
+    width: 528px;
+    display: flex;
+    justify-content: center;
+}
+
+.login-font-area {
+    position: absolute;
+    display: flex;
+    height: 51px;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.login-font {
+    font-family: Arial;
+    font-size: 36px;
+    font-weight: bold;
+    color: rgb(80, 80, 80);
+    text-align: center;
+    line-height: 1.4;
+}
+
+.login-line-cover {
+    margin-top: 50px;
+}
+
+.login-line {
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    height: 1px;
+    top: 0px;
+    background-color: rgb(222, 222, 222);
+    border-radius: 0px;
+    width: 528px;
+    left: 0px;
+}
+
+.email-login-font-cover {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.email-login-font-area {
+    height: 37px;
+    overflow: visible;
+    padding-bottom: 0px;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(80, 80, 80);
+    text-align: center;
+    line-height: 1.4;
+    border-radius: 0px;
+    width: 330px;
+}
+
+.login-input-font {
+    height: 30px;
+    overflow: visible;
+    padding-bottom: 0px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(80, 80, 80);
+    line-height: 1.4;
+    border-radius: 0px;
+    width: 200px;
+}
+
+.login-input-cover {
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.email-input-cover {
+    margin-top: 9px;
+}
+
+.pass-input-cover {
+    margin-top: 40px;
+}
+
+.login-input {
+    border: 1px solid rgba(171, 171, 171, 0.41);
+    background-color: rgb(252, 252, 252);
+    border-radius: 5px;
+    font-family: Barlow;
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(107, 107, 107);
+    padding: 0px 10px;
+    width: 528px;
+    height: 48px;
+}
+
+.login-button-cover {
+    margin-top: 40px;
+}
+
+.login-button {
+    cursor: pointer;
+    background: none rgb(55, 135, 255);
+    border: none;
+    box-sizing: border-box;
+    height: 48px;
+    top: 0px;
+    font-family: Barlow;
+    font-size: 14px;
+    font-weight: 700;
+    color: rgb(255, 255, 255); 
+    border-radius: 5px;
+    /* transition: background 200ms ease 0s; */
+    width: 528px;
+    box-shadow: none;
+}

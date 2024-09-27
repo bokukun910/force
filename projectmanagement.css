@@ -1,0 +1,34 @@
+.projectmanagement-cover {
+    background-color: rgba(201, 242, 255, 0.5);
+    left: 0px;
+    top: 72px;
+    position: absolute;
+    width: 100%;
+    height: 1000px;
+    padding-bottom: 1000px;
+    display: flex;
+    justify-content: center;
+}
+
+.projectmanagement-area {
+    width: 1233px;
+    margin-top: 45px;
+}
+
+.projectmanagement-top-font-cover {
+    height: 50px;
+}
+
+.projectmanagement-top-font-area {
+    width: 489.6px;
+}
+
+.projectmanagement-top-font {
+    height: 50px;
+    width: 489.6px;
+    font-family: Arial;
+    font-size: 32px;
+    font-weight: bold;
+    color: rgb(80, 80, 80);
+    line-height: 1.4;
+}
